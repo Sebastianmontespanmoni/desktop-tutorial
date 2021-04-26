@@ -18,3 +18,10 @@ Existen personas que quieren decir que lo que estamos haciendo es falso, fraude,
 Pero tener GMB para cada uno nos permite evidenciar que lo hacemos es real y somos gente con integridad.
 
 Por eso hay que tener GMB para cada uno.
+
+
+Queremos comerciantes de calidad con señalización, no más quioscos y negocios desde casa, queremos negocios reales.
+
+No creamos los GMB para el negocio y mucho menos con nuestros propios correos electrónicos.
+
+Los comerciantes deben poseer sus propios GMB.
