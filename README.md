@@ -90,4 +90,5 @@ Que este aceptado el check de correos.
 
 12. Se cambia estado a verified (solo admin de AT)
 Se agrega a map.bitcoin.com y se deja comentario en **VERIFIER NOTES** de que esta allí.
->>>>>>> Stashed changes
+
+
