@@ -24,9 +24,6 @@ Queremos comerciantes de calidad con señalización, no más quioscos y negocios
 
 No creamos los GMB para el negocio y mucho menos con nuestros propios correos electrónicos.
 
-<<<<<<< Updated upstream
-Los comerciantes deben poseer sus propios GMB.
-=======
 Los comerciantes deben poseer sus propios GMB.
 
 ## Fotos de registro de personas
