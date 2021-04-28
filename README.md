@@ -24,8 +24,6 @@ Queremos comerciantes de calidad con señalización, no más quioscos y negocios
 
 No creamos los GMB para el negocio y mucho menos con nuestros propios correos electrónicos.
 
-Los comerciantes deben poseer sus propios GMB.
-
 ## Fotos de registro de personas
 
 Las fotos son nuestra mejor arma ante cualquier elemento de duda que puedan presentar detractores o personas que no estan a favor de este proyecto, por eso es totalmente importante que cada uno de los vendedores sepan muy bien la calidad de material audiovisual que es correcto, ademas porque ayuda a nuestras RRSS y es posible que la persona publicada alli gane algunas propinas de las personas que visualizan el contenido.
@@ -39,7 +37,7 @@ la mejor forma de tomar la fotografia es asi:
 4. Algun logo de BCH Latam- Panmoni seria ideal
 
 
-![imagen de JEAN](https://www.google.com.co/search?q=bitcoincash.site&hl=es-419&authuser=0&tbm=isch&sxsrf=ALeKk020bWmPk5S5GY0DHnJ15oD486j2yQ%3A1619618274646&source=hp&biw=1366&bih=657&ei=4mmJYNjUJLax5NoPk8ecoAE&oq=bitcoincash.site&gs_lcp=CgNpbWcQAzoECCMQJzoICAAQsQMQgwE6BQgAELEDOgIIADoECAAQHjoECAAQGDoGCAAQChAYUNQFWNYxYN04aABwAHgCgAHcBYgBtSySAQ0wLjEuNy4yLjMuMi4xmAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ved=0ahUKEwjYzbefjKHwAhW2GFkFHZMjBxQQ4dUDCAc&uact=5#imgrc=RtL4lJSv6jvB0M)
+![imagen](https://bitcoincash.site/images/merchants/stickers/sticker1-orig.jpg)
 
 
 Puedes hacer pruebas de la foto escaneando el QR que aparece en ella con una Wallet, si se lee has tenido exito.
@@ -87,5 +85,3 @@ Que este aceptado el check de correos.
 
 12. Se cambia estado a verified (solo admin de AT)
 Se agrega a map.bitcoin.com y se deja comentario en **VERIFIER NOTES** de que esta allí.
-
-
